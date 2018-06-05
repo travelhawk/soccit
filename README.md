@@ -1,5 +1,4 @@
 # soccit
----------------------------
 WebCrawler for Soccer Games
 
 ---------------------------
