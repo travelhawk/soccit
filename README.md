@@ -1,6 +1,6 @@
 # soccit
-#############################
-# WebCrawler for Soccer Games
-#
-#############################
-# Created at the MuniHac 2016
+---------------------------
+WebCrawler for Soccer Games
+
+---------------------------
+Created at the MuniHac 2016
